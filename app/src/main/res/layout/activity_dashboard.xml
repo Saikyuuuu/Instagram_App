@@ -10,8 +10,8 @@
     <!-- NestedScrollView -->
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
+        android:layout_height="643dp"
         android:background="@color/black"
-        android:layout_height="match_parent"
         android:overScrollMode="never">
 
         <LinearLayout
@@ -22,9 +22,9 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
+                android:layout_height="50dp"
                 android:paddingStart="10dp"
-                android:paddingEnd="10dp"
-                android:layout_height="50dp">
+                android:paddingEnd="10dp">
 
                 <ImageView
                     android:id="@+id/imageView3"
@@ -93,9 +93,9 @@
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
-                        android:backgroundTint="@color/black"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -107,28 +107,28 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
 
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -140,27 +140,27 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -172,27 +172,27 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -204,27 +204,27 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -236,27 +236,27 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -268,27 +268,27 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
+                        android:layout_height="100dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_height="100dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="80dp"
@@ -300,20 +300,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="87dp"
                             android:layout_marginStart="23dp"
+                            android:layout_marginTop="87dp"
+                            android:gravity="center"
                             android:text="Erman"
                             android:textColor="@color/white"
-                            android:gravity="center"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </androidx.cardview.widget.CardView>
                 </LinearLayout>
             </HorizontalScrollView>
@@ -330,10 +330,10 @@
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="395dp"
+                        android:layout_height="500dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
                         android:layout_marginBottom="10dp"
-                        android:layout_height="500dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="40dp"
@@ -345,115 +345,115 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="350dp"
                             android:layout_marginTop="40dp"
-                            android:src="@drawable/erman_gwapa"/>
+                            android:src="@drawable/erman_gwapa" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:gravity="center"
-                            android:layout_marginTop="10dp"
                             android:layout_marginStart="60dp"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
                             android:text="Erman"
-                            android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:textSize="12sp" />
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
 
                         <ImageView
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_marginStart="10dp"
-                            android:src="@drawable/heart"
-                            android:layout_marginTop="400dp"/>
+                            android:layout_marginTop="400dp"
+                            android:src="@drawable/heart" />
 
                         <ImageView
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_marginStart="50dp"
-                            android:src="@drawable/comment"
-                            android:layout_marginTop="400dp"/>
+                            android:layout_marginTop="400dp"
+                            android:src="@drawable/comment" />
 
                         <ImageView
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_marginStart="90dp"
-                            android:src="@drawable/share_icon"
-                            android:layout_marginTop="400dp"/>
+                            android:layout_marginTop="400dp"
+                            android:src="@drawable/share_icon" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="1M likes"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
+                            android:layout_marginStart="10dp"
                             android:layout_marginTop="430dp"
-                            android:layout_marginStart="10dp"/>
+                            android:text="1M likes"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="450dp"
                             android:text="Erman"
-                            android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="10dp"/>
+                            android:textStyle="bold" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:layout_marginStart="60dp"
+                            android:layout_marginTop="450dp"
                             android:text="Im so pretty lmaooo"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="60dp"/>
+                            android:textColor="@color/white" />
 
                         <ImageView
                             android:layout_width="20dp"
                             android:layout_height="20dp"
-                            android:src="@drawable/down_right"
+                            android:layout_marginStart="25dp"
                             android:layout_marginTop="470dp"
-                            android:layout_marginStart="25dp"/>
+                            android:src="@drawable/down_right" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:layout_marginStart="50dp"
+                            android:layout_marginTop="475dp"
                             android:text="Arc"
-                            android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="50dp"/>
+                            android:textStyle="bold" />
 
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="I love you"
-                            android:textColor="@color/white"
+                            android:layout_marginStart="80dp"
                             android:layout_marginTop="475dp"
-                            android:layout_marginStart="80dp"/>
+                            android:text="I love you"
+                            android:textColor="@color/white" />
 
                         <ImageView
                             android:layout_width="20dp"
                             android:layout_height="20dp"
-                            android:src="@drawable/heart_red"
+                            android:layout_marginStart="140dp"
                             android:layout_marginTop="476dp"
-                            android:layout_marginStart="140dp"/>
+                            android:src="@drawable/heart_red" />
 
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="395dp"
+                        android:layout_height="500dp"
                         android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
                         android:layout_marginBottom="10dp"
-                        android:layout_height="500dp">
+                        android:backgroundTint="@color/black">
 
                         <FrameLayout
                             android:layout_width="40dp"
@@ -465,466 +465,106 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_margin="3dp"
-                                android:padding="4dp"
                                 android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
+                                android:padding="4dp"
+                                android:src="@drawable/erman" />
                         </FrameLayout>
 
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="350dp"
                             android:layout_marginTop="40dp"
-                            android:src="@drawable/erman_gwapa"/>
+                            android:src="@drawable/erman_gwapa" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:gravity="center"
-                            android:layout_marginTop="10dp"
                             android:layout_marginStart="60dp"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
                             android:text="Erman"
-                            android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:textSize="12sp" />
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
 
                         <ImageView
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_marginStart="10dp"
-                            android:src="@drawable/heart"
-                            android:layout_marginTop="400dp"/>
+                            android:layout_marginTop="400dp"
+                            android:src="@drawable/heart" />
 
                         <ImageView
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_marginStart="50dp"
-                            android:src="@drawable/comment"
-                            android:layout_marginTop="400dp"/>
+                            android:layout_marginTop="400dp"
+                            android:src="@drawable/comment" />
 
                         <ImageView
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_marginStart="90dp"
-                            android:src="@drawable/share_icon"
-                            android:layout_marginTop="400dp"/>
+                            android:layout_marginTop="400dp"
+                            android:src="@drawable/share_icon" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="1M likes"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="430dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Im so pretty lmaooo"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="60dp"/>
-
-                        <ImageView
-                            android:layout_width="20dp"
-                            android:layout_height="20dp"
-                            android:src="@drawable/down_right"
-                            android:layout_marginTop="470dp"
-                            android:layout_marginStart="25dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Arc"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="50dp"/>
-
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="I love you"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="80dp"/>
-
-                        <ImageView
-                            android:layout_width="20dp"
-                            android:layout_height="20dp"
-                            android:src="@drawable/heart_red"
-                            android:layout_marginTop="476dp"
-                            android:layout_marginStart="140dp"/>
-
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
-                        android:layout_width="395dp"
-                        android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_marginBottom="10dp"
-                        android:layout_height="500dp">
-
-                        <FrameLayout
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
                             android:layout_marginStart="10dp"
-                            android:background="@drawable/bg_round_gradient">
-
-                            <ImageView
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:layout_margin="3dp"
-                                android:padding="4dp"
-                                android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
-                        </FrameLayout>
-
-                        <ImageView
-                            android:layout_width="match_parent"
-                            android:layout_height="350dp"
-                            android:layout_marginTop="40dp"
-                            android:src="@drawable/erman_gwapa"/>
+                            android:layout_marginTop="430dp"
+                            android:text="1M likes"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:gravity="center"
-                            android:layout_marginTop="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="450dp"
+                            android:text="Erman"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
                             android:layout_marginStart="60dp"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:textSize="12sp" />
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="10dp"
-                            android:src="@drawable/heart"
-                            android:layout_marginTop="400dp"/>
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="50dp"
-                            android:src="@drawable/comment"
-                            android:layout_marginTop="400dp"/>
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="90dp"
-                            android:src="@drawable/share_icon"
-                            android:layout_marginTop="400dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="1M likes"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="430dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
                             android:layout_marginTop="450dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
                             android:text="Im so pretty lmaooo"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="60dp"/>
+                            android:textColor="@color/white" />
 
                         <ImageView
                             android:layout_width="20dp"
                             android:layout_height="20dp"
-                            android:src="@drawable/down_right"
+                            android:layout_marginStart="25dp"
                             android:layout_marginTop="470dp"
-                            android:layout_marginStart="25dp"/>
+                            android:src="@drawable/down_right" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Arc"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="50dp"/>
-
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="I love you"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="80dp"/>
-
-                        <ImageView
-                            android:layout_width="20dp"
-                            android:layout_height="20dp"
-                            android:src="@drawable/heart_red"
-                            android:layout_marginTop="476dp"
-                            android:layout_marginStart="140dp"/>
-
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
-                        android:layout_width="395dp"
-                        android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_marginBottom="10dp"
-                        android:layout_height="500dp">
-
-                        <FrameLayout
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
-                            android:layout_marginStart="10dp"
-                            android:background="@drawable/bg_round_gradient">
-
-                            <ImageView
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:layout_margin="3dp"
-                                android:padding="4dp"
-                                android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
-                        </FrameLayout>
-
-                        <ImageView
-                            android:layout_width="match_parent"
-                            android:layout_height="350dp"
-                            android:layout_marginTop="40dp"
-                            android:src="@drawable/erman_gwapa"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:gravity="center"
-                            android:layout_marginTop="10dp"
-                            android:layout_marginStart="60dp"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:textSize="12sp" />
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="10dp"
-                            android:src="@drawable/heart"
-                            android:layout_marginTop="400dp"/>
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
                             android:layout_marginStart="50dp"
-                            android:src="@drawable/comment"
-                            android:layout_marginTop="400dp"/>
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="90dp"
-                            android:src="@drawable/share_icon"
-                            android:layout_marginTop="400dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="1M likes"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="430dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Im so pretty lmaooo"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="60dp"/>
-
-                        <ImageView
-                            android:layout_width="20dp"
-                            android:layout_height="20dp"
-                            android:src="@drawable/down_right"
-                            android:layout_marginTop="470dp"
-                            android:layout_marginStart="25dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_marginTop="475dp"
                             android:text="Arc"
-                            android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="50dp"/>
+                            android:textStyle="bold" />
 
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:layout_marginStart="80dp"
+                            android:layout_marginTop="475dp"
                             android:text="I love you"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="80dp"/>
+                            android:textColor="@color/white" />
 
                         <ImageView
                             android:layout_width="20dp"
                             android:layout_height="20dp"
-                            android:src="@drawable/heart_red"
+                            android:layout_marginStart="140dp"
                             android:layout_marginTop="476dp"
-                            android:layout_marginStart="140dp"/>
-
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
-                        android:layout_width="395dp"
-                        android:layout_marginEnd="10dp"
-                        android:backgroundTint="@color/black"
-                        android:layout_marginBottom="10dp"
-                        android:layout_height="500dp">
-
-                        <FrameLayout
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
-                            android:layout_marginStart="10dp"
-                            android:background="@drawable/bg_round_gradient">
-
-                            <ImageView
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:layout_margin="3dp"
-                                android:padding="4dp"
-                                android:background="@drawable/bg_round"
-                                android:src="@drawable/erman"/>
-                        </FrameLayout>
-
-                        <ImageView
-                            android:layout_width="match_parent"
-                            android:layout_height="350dp"
-                            android:layout_marginTop="40dp"
-                            android:src="@drawable/erman_gwapa"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:gravity="center"
-                            android:layout_marginTop="10dp"
-                            android:layout_marginStart="60dp"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:textSize="12sp" />
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="10dp"
-                            android:src="@drawable/heart"
-                            android:layout_marginTop="400dp"/>
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="50dp"
-                            android:src="@drawable/comment"
-                            android:layout_marginTop="400dp"/>
-
-                        <ImageView
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
-                            android:layout_marginStart="90dp"
-                            android:src="@drawable/share_icon"
-                            android:layout_marginTop="400dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="1M likes"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="430dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Erman"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="10dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Im so pretty lmaooo"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="450dp"
-                            android:layout_marginStart="60dp"/>
-
-                        <ImageView
-                            android:layout_width="20dp"
-                            android:layout_height="20dp"
-                            android:src="@drawable/down_right"
-                            android:layout_marginTop="470dp"
-                            android:layout_marginStart="25dp"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Arc"
-                            android:textStyle="bold"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="50dp"/>
-
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="I love you"
-                            android:textColor="@color/white"
-                            android:layout_marginTop="475dp"
-                            android:layout_marginStart="80dp"/>
-
-                        <ImageView
-                            android:layout_width="20dp"
-                            android:layout_height="20dp"
-                            android:src="@drawable/heart_red"
-                            android:layout_marginTop="476dp"
-                            android:layout_marginStart="140dp"/>
+                            android:src="@drawable/heart_red" />
 
                     </androidx.cardview.widget.CardView>
 
@@ -935,6 +575,11 @@
         </LinearLayout>
 
     </androidx.core.widget.NestedScrollView>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="652dp" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_navigation"
